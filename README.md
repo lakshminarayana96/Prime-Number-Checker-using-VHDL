@@ -1,2 +1,2 @@
-# Prime-Number-Checker-using-VHDL
+# Prime-Number-Checker-using-HDL
 in Vivado software
